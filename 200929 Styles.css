@@ -47,12 +47,13 @@ h1:hover:before {
 p {
   position: relative;
   display: list-item;
-  border-radius: 10px;
+  border-radius: 14px;
   border: 0.5px solid slategray;
   padding: 1px; 
   width: 152px;
   height: 14px;
   line-height: 14px;
+  text-align: center;
 }
 .dropdown-content {
   display: none;
